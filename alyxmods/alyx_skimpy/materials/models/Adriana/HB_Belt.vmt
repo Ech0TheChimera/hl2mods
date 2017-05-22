@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Adriana/HB_Belt"
+
+
+	"$nocull" 1
+	"$halflambert" 1
+	//"$nodecal" "1"
+	"$model" "1"
+
+} 
+
+
+
+
+
+
+
+

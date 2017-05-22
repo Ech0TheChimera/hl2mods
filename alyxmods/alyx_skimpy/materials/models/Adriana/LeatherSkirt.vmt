@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Adriana/LeatherSkirt"
+	"$bumpmap" "models/Adriana/Universal_normal"
+	//"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"11"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+}

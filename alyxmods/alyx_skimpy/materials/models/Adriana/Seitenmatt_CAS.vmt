@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Adriana/Seitenmatt_CAS"
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+	"$model" 1
+	"$bumpmap" "models/Adriana/Universal_normal"
+	"$nocull" 1
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"11"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+} 
+
+
+
+
+
+
+
+

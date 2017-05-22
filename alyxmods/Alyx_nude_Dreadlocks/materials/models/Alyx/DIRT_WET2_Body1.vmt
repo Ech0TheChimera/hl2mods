@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Alyx/LIMA14_Body1"
+	"$bumpmap" "models/alyx/LIMA8_Body1_normal"
+	
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+
+
+
+	
+}

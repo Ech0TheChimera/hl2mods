@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Adriana/Seidenmatt_Silber"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	//"$bumpmap" "models/Adriana/Universal_normal"
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"11"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+} 
+
+
+
+
+
+
+
+

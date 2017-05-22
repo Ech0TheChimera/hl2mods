@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/VALYX/eyeball_r"
+	"$iris" "models/VALYX/pupil_r"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

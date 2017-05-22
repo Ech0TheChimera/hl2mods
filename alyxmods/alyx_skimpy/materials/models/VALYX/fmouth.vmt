@@ -1,0 +1,18 @@
+//"Teeth"
+//{
+//	"$basetexture" "models/VALYX/fmouth"
+//	"$clientshader" "MouthShader"
+//	"$model" 1
+//	"$halflambert" 1
+//	"$nodecal" "1"
+//
+//}
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/VALYX/fmouth"
+	"$model" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+
+}

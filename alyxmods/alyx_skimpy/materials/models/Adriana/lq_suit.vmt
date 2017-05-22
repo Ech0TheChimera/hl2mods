@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Adriana/lq_suit"
+	"$surfaceprop" "flesh"
+	//"$halflambert" 1
+	"$model" 1
+	"$bumpmap" "models/Adriana/lq_suit_normal"
+	//"$nocull" 1
+
+
+	
+}
+

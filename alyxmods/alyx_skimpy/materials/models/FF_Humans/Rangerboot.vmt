@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/FF_Humans/Rangerboot"
+	"$bumpmap" "models/FF_Humans/Rangerboot_normal"
+	"$surfaceprop" "flesh"
+        "$model" 1
+	"$nocull" 1
+}

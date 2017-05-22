@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Adriana/Neue_Jeans"
+	"$bumpmap" "models/Adriana/Alte_Jeans_Bump"
+	"$surfaceprop" "flesh"
+        "$model" 1
+	"$nocull" 1
+} 
+
+
+
+
+
+
+
+
